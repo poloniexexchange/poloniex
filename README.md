@@ -1,2 +1,2 @@
-# poloniex
-Poloniex
+Poloniex Exchange
+
